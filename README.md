@@ -1,0 +1,2 @@
+# multifunctional-dashboard-widget
+Using QT Creator built a multifunctional dashboard. The dashboard includes a current time (as well as the current time in Nairobi, Kenya) using QTimer and QTimeZone class reference. The widget also has a digital phot frame that cycles through a series of photos from Kenya using the QTime class. It also utilizes Bing Map API key to look up and display a zip code. The OpenWeatherMan Weather API is used to look up and display the zip code's weather. 
